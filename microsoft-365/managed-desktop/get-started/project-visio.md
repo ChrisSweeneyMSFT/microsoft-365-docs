@@ -28,7 +28,7 @@ Admins should verify that they meet these prerequisites:
 
 ## Deploy Project and Visio for Microsoft Managed Desktop devices
 
-Microsoft Managed Desktop will add Microsoft Project and Microsoft Visio as two Win32 Applications in Microsoft Intune. We'll also create two groups in Azure Active Directory. The groups will be assigned to the corresponding application with the "Available" intent.
+Microsoft Managed Desktop will add Microsoft Project and Microsoft Visio as two Win32 Applications in Microsoft Intune. We'll also create two groups in Azure Active Directory. The groups will be assigned to the corresponding application with the "Available" intent. Device Groups or Required Intent are not supported.
 
 **To deploy Project and Visio:**
 
